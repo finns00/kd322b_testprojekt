@@ -27,6 +27,8 @@ public class Konka extends JFrame {
 		});
 	}
 
+	//sapdokaspfomasp
+	
 	/**
 	 * Create the frame.
 	 */
